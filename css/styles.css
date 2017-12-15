@@ -18,6 +18,12 @@ nav.nav-center ul li {
 nav.nav-center ul li a {
     display: inline-block;
 }
+<<<<<<< HEAD
 .text-justificado{
 	text-align: justify;
+=======
+
+#principal{
+	background: url(../video´/principal.mov);
+>>>>>>> 88744e8c9a702869ba61d8e1f746260c861c74fb
 }
