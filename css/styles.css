@@ -18,3 +18,7 @@ nav.nav-center ul li {
 nav.nav-center ul li a {
     display: inline-block;
 }
+
+#principal{
+	background: url(../video´/principal.mov);
+}
