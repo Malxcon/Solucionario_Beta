@@ -1,0 +1,20 @@
+body{
+	font-family: 'Questrial', sans-serif;
+}
+.mediano{
+	font-size: 25px;
+}
+
+.grande{
+	font-size: 35px;
+}
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-center ul li a {
+    display: inline-block;
+}
