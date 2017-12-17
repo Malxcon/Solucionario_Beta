@@ -1,12 +1,16 @@
-body{
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+html{
 	font-family: 'Dosis', sans-serif;
 }
-.mediano{
+.pequenio{
 	font-size: 20px;
+}
+.mediano{
+	font-size: 25px;
 }
 
 .grande{
-	font-size: 35px;
+	font-size: 4em;
 }
 nav.nav-center ul {
     text-align: center;
@@ -21,11 +25,6 @@ nav.nav-center ul li a {
 .text-justificado{
 	text-align: justify;
 }
-
-.contactos{
-	background: url(../images/contacto.jpg);
-}
-
 #navegacion ul li {
 	padding: 15px 20px;
 }
@@ -36,8 +35,43 @@ nav.nav-center ul li a {
 	background-position: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	margin-bottom: 0px;
+}
+
+.rightous{
+	font-family: 'Righteous', cursive;
 }
 
 #principal h1{
 	font-size: 8em;
+}
+#que-es{
+	padding-top: 60px;
+}
+
+#pasos{
+	padding: 70px 0px 50px 0px;
+}
+
+#preguntas{
+	background-image: url(../images/preguntas.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 70px 0px 70px 0px;
+	margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    #que-es{
+		padding-top: 0px;
+		margin-bottom: 15px;
+	}
+	h1{
+		font-size: 10px;
+	}
+}
+
+#contactanos{
+	padding: 50px 0px 50px 0px;	
 }
