@@ -1,8 +1,8 @@
 body{
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Dosis', sans-serif;
 }
 .mediano{
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .grande{
@@ -18,18 +18,13 @@ nav.nav-center ul li {
 nav.nav-center ul li a {
     display: inline-block;
 }
-<<<<<<< HEAD
 .text-justificado{
 	text-align: justify;
-<<<<<<< HEAD
 }
-<<<<<<< HEAD
-#principal{
-	background: url(../video´/principal.mov);
-}
+
 .contactos{
 	background: url(../images/contacto.jpg);
-=======
+}
 
 #navegacion ul li {
 	padding: 15px 20px;
@@ -45,12 +40,4 @@ nav.nav-center ul li a {
 
 #principal h1{
 	font-size: 8em;
->>>>>>> 5cdb2f3f078048f19ea524971647b1ab3694d5e4
-=======
-=======
-
-#principal{
-	background: url(../video´/principal.mov);
->>>>>>> 88744e8c9a702869ba61d8e1f746260c861c74fb
->>>>>>> parent of 5cdb2f3... cambio hader
 }
